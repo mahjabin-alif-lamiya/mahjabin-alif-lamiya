@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahjabin Alif</h1>
+<h1 align="center">Assalamulykum, I'm Mahjabin Alif</h1>
 
 <h3 align="center">Aspiring Software Developer | Interested in Machine Learning & Web Development | Currently building real-world projects | Always learning 🚀</h3>
 
@@ -36,35 +36,17 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
-</p>
-
----
-
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://github.com/mahjabin-alif-lamiya">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
+  <a href="https://www.linkedin.com/in/alif0032/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### ⚡ Fun Animation:
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Machine+Learning+Enthusiast;Hackathon+Participant;Always+Learning+New+Things" />
-</p>
-
----
 
 ⭐️ From [mahjabin-alif-lamiya](https://github.com/mahjabin-alif-lamiya)
