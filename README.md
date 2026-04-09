@@ -1,10 +1,10 @@
-<h1 align="center">Assalamulykum, I'm Mahjabin Alif</h1>
+<h1 align="center">Assalamulykum, I'm Mahjabin Alif 👩‍💻 </h1>
 
 <h3 align="center">Aspiring Software Developer | Interested in Machine Learning & Web Development | Currently building real-world projects | Always learning 🚀</h3>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding girl" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 ### 👩‍💻 About Me:
 - 🎓 CSE Student  
@@ -17,14 +17,15 @@
 
 ### 🏆 Hackathons & Experience:
 - 🚀 Participated in **NextGen Hackathon**  
-- 💡 Participated in **CUET CSE Fest DevOps Hackathon (Preliminary Round)**  
+- 💡 Participated in **CUET CSE Fest DevOps Hackathon (Preliminary Round)**
+- 🧠 Reached **Semi-Final of ICT Olympiad Season 2**
 - 🔥 Actively building and exploring real-world projects  
 
 ---
 
 ### 🚀 Skills:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,php,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,laravel,php,mysql,html,css,c,cpp" />
 </p>
 
 ---
@@ -35,6 +36,9 @@
 - 🤖 Learning Machine Learning  
 
 ---
+### 🌱 Currently Learning:
+- Python for AI and Machine Learning    
+- Backend Development 
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -47,6 +51,9 @@
 </p>
 
 ---
-
+### ⚡ Fun Animation:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=500&lines=Aspiring+Software+Developer;Machine+Learning+Enthusiast;Hackathon+Participant;Always+Learning+New+Things" />
+</p>
 
 ⭐️ From [mahjabin-alif-lamiya](https://github.com/mahjabin-alif-lamiya)
