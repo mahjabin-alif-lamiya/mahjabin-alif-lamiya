@@ -8,17 +8,19 @@
 
 ### 👩‍💻 About Me:
 - 🎓 CSE Student  
-- 🤖 Interested in **Machine Learning **  
-- 💻 Currently working on **DBMS Project & Web Development Project**  
-- 🚀 Participated in Hackathons & building real-world projects  
+- 🤖 Interested in **Machine Learning , AI & Web Development **  
+- 💻 Currently working on **Multiple real-world projects**  
+- 🚀 Participated in Hackathons, Olympiads & Tech competitions  
 - ⚡ Love problem solving & learning new tech  
 
 ---
 
-### 🏆 Hackathons & Experience:
-- 🚀 Participated in **NextGen Hackathon**  
-- 💡 Participated in **CUET CSE Fest DevOps Hackathon (Preliminary Round)**
-- 🧠 Reached **Semi-Final of ICT Olympiad Season 2**
+### 🏆 Competitions & Hackathons:
+- 🚀 Reached the **Final Round** in **NextGen Hackathon (2025)**  
+- 💡 Participated in **CUET CSE Fest DevOps Hackathon (Preliminary Round) (2025)**
+- 🧠 Reached **Semi-Final Round** in **ICT Olympiad Season 2 (2025)**  
+- 🧠 Reached **Semi-Final Round** in **ICT Olympiad Season 3 (2026)**
+- 🌟 Reached **Semi-Final Round** in **Bangla Innovator (2026)** 
 - 🔥 Actively building and exploring real-world projects  
 
 ---
@@ -31,9 +33,12 @@
 ---
 
 ### 🔥 Currently Working On:
-- 📊 DBMS Project  
-- 🌐 Web Development Project  
-- 🤖 Learning Machine Learning  
+- 📊 DBMS Project
+- 🔌 Digital Logic Design (DLD) Project  
+- 🖥️ Microprocessor Project  
+- 🤖 Machine Learning Project  
+- 🧠 AI Project
+- 🌐 Web Development Project   
 
 ---
 ### 🌱 Currently Learning:
