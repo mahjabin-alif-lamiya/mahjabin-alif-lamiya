@@ -16,12 +16,15 @@
 ---
 
 ### 🏆 Competitions & Hackathons:
-- 🚀 Reached the **Final Round** in **NextGen Hackathon (2025)**  
+
+- 🥇 **Champion** — **PROTICHAMP AI Championship 1.0**
+- 🚀 Reached the **Final Round** in **NextGen Hackathon (2025)**
+- 🎖️ Certificate of Achievement — **AI Hackathon, SciBlitz 2.0** (IEEE CUET Student Branch)
 - 💡 Participated in **CUET CSE Fest DevOps Hackathon (Preliminary Round) (2025)**
-- 🧠 Reached **Semi-Final Round** in **ICT Olympiad Season 2 (2025)**  
+- 🧠 Reached **Semi-Final Round** in **ICT Olympiad Season 2 (2025)**
 - 🧠 Reached **Semi-Final Round** in **ICT Olympiad Season 3 (2026)**
-- 🌟 Reached **Semi-Final Round** in **Bangla Innovator (2026)** 
-- 🔥 Actively building and exploring real-world projects  
+- 🌟 Reached **Semi-Final Round** in **Bangla Innovator (2026)**
+- 🔥 Actively building and exploring real-world projects 
 
 ---
 
