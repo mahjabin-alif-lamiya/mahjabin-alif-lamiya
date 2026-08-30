@@ -30,7 +30,7 @@
 
 ### 🚀 Skills:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,next.js,laravel,php,mysql,html,css,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,nextjs,laravel,php,mysql,html,css,c,cpp" />
 </p>
 
 ---
