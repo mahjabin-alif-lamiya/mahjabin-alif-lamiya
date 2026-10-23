@@ -36,17 +36,13 @@
 ---
 
 ### 🔥 Currently Working On:
-- 📊 DBMS Project
-- 🔌 Digital Logic Design (DLD) Project  
-- 🖥️ Microprocessor Project  
-- 🤖 Machine Learning Project  
-- 🧠 AI Project
-- 🌐 Web Development Project   
+- 🌐 Full-Stack Web Development
+- 🤖 Exploring AI and Machine Learning Project 
 
 ---
 ### 🌱 Currently Learning:
-- Python for AI and Machine Learning    
-- Backend Development 
+- ⚙️ Backend Architecture and API Development
+- 🗄️ Database Design and Optimization
 
 ### 🌐 Connect with me:
 <p align="left">
