@@ -16,7 +16,7 @@
 - 💡 Interested in **Machine Learning, AI & Web Development**
 - 🛠️ Currently working on **multiple real-world projects**
 - 🏆 Participated in **Hackathons, Olympiads & Tech competitions**
-- ❤️ Love **problem solving** & learning new tech
+- ❤️ Love to **problem solving** & learning new tech
 
 ---
 
